@@ -78,19 +78,7 @@ Open the URL shown in the terminal (usually http://localhost:8501) in your brows
 - `.env` and `venv/` are ignored by Git via `.gitignore`.  
 - The repo contains `.env.example` so others know how to configure their own keys.
 
-## ✅ Status
 
-- Research Agent tab: **Working**  
-- Text Summarizer tab: **Working**  
-- PDF Reader tab: **Working**  
-- Repo: Clean (no venv, no secrets)
-
-## 📌 Possible Future Improvements
-
-- Export reports as PDF or Markdown.  
-- Add citation formatting (APA/MLA).  
-- Support multiple languages.  
-- Deploy on Streamlit Cloud or another hosting platform.
 
 ---
 

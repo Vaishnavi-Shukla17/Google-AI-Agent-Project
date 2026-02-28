@@ -37,14 +37,14 @@ It helps users generate structured research reports, summarize long text, and an
 ## 📁 Project Structure
 
 ResearchNova/
-├── app.py # Main Streamlit application (all tabs)
-├── requirements.txt # Python dependencies
-├── .env # Local API key (NOT committed – ignored by git)
-├── .env.example # Example env file for others
-├── .gitignore # Ignore venv, .env, caches, etc.
-├── test_api.py # Small script to test Gemini API key
-├── test_search.py # (Optional) DuckDuckGo search test
-└── list_models.py # Script to list available Gemini models
+app.py # Main Streamlit application (all tabs)
+requirements.txt # Python dependencies
+.env # Local API key (NOT committed – ignored by git)
+.env.example # Example env file for others
+.gitignore # Ignore venv, .env, caches, etc.
+test_api.py # Small script to test Gemini API key
+test_search.py # (Optional) DuckDuckGo search test
+ list_models.py # Script to list available Gemini models
 
 ## 🚀 Getting Started
 
